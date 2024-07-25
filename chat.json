@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest25072024055919",
+        "timestamp": "25072024055920",
+        "component_file_name": "simple_header_component_1721887045",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great! Adding a button with text \"Hello World\".",
         "message_id": "guest25072024055809",
